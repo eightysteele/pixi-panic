@@ -1,0 +1,6 @@
+pyproject.toml
+src/b3d/__init__.py
+src/b3d.egg-info/PKG-INFO
+src/b3d.egg-info/SOURCES.txt
+src/b3d.egg-info/dependency_links.txt
+src/b3d.egg-info/top_level.txt
